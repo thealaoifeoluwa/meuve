@@ -6,7 +6,8 @@ module.exports = {
       'body': '#FFFFFF',
       'orange': '#FFC300',
       'black' : '#000814',
-      'white' : '#ffffff',
+      'lemonade' : '#16E500',
+      'red' : '#fE50000',
     },
     fontFamily: {
       sans: ['Cabinet Grotesk', 'sans-serif'],
