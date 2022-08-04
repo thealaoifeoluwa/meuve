@@ -7,7 +7,8 @@ module.exports = {
       'orange': '#FFC300',
       'black' : '#000814',
       'lemonade' : '#16E500',
-      'red' : '#fE50000',
+      'red' : '#E50000',
+      'dark-blue' : '#001D3D'
     },
     fontFamily: {
       sans: ['Cabinet Grotesk', 'sans-serif'],
