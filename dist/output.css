@@ -1166,10 +1166,6 @@ video {
 }
 
 @media (max-width: 750px) {
-  .md\:visible {
-    visibility: visible;
-  }
-
   .md\:hidden {
     display: none;
   }
@@ -1235,20 +1231,16 @@ video {
     padding-bottom: 6rem;
   }
 
+  .md\:pb-14 {
+    padding-bottom: 3.5rem;
+  }
+
   .md\:pt-8 {
     padding-top: 2rem;
   }
 
   .md\:pl-8 {
     padding-left: 2rem;
-  }
-
-  .md\:pb-28 {
-    padding-bottom: 7rem;
-  }
-
-  .md\:pb-14 {
-    padding-bottom: 3.5rem;
   }
 
   .md\:text-2xl {
