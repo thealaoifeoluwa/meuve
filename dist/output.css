@@ -575,14 +575,6 @@ video {
   left: 61.5%;
 }
 
-.top-0 {
-  top: 0px;
-}
-
-.bottom-0 {
-  bottom: 0px;
-}
-
 .-z-50 {
   z-index: -50;
 }
@@ -604,16 +596,8 @@ video {
   display: block;
 }
 
-.inline-block {
-  display: inline-block;
-}
-
 .flex {
   display: flex;
-}
-
-.hidden {
-  display: none;
 }
 
 .h-16 {
@@ -636,10 +620,6 @@ video {
   width: auto;
 }
 
-.w-0 {
-  width: 0px;
-}
-
 .max-w-\[50\%\] {
   max-width: 50%;
 }
@@ -658,10 +638,6 @@ video {
 
 .max-w-7xl {
   max-width: 80rem;
-}
-
-.max-w-3xl {
-  max-width: 48rem;
 }
 
 .flex-grow-0 {
