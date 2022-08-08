@@ -4,6 +4,10 @@ module.exports = {
   theme: {
 
     screens: {
+       
+      '10xl': {'max': '9000px'},
+      // => @media (max-width: 1535px) { ... }
+
       '2xl': {'max': '1600px'},
       // => @media (max-width: 1535px) { ... }
 
@@ -13,7 +17,7 @@ module.exports = {
       'lg': {'max': '1140px'},
       // => @media (max-width: 1023px) { ... }
 
-      'md': {'max': '767px'},
+      'md': {'max': '750px'},
       // => @media (max-width: 767px) { ... }
 
       'sm': {'max': '639px'},
